@@ -1,0 +1,5 @@
+{
+  "port": 5050,
+  "jwtSecret": "natasha mern project",
+  "mongoUri": "mongodb+srv://natalia:1123581321@cluster0.j4ber.azure.mongodb.net/app?retryWrites=true&w=majority"
+}
